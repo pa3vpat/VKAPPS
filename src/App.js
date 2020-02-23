@@ -5,8 +5,8 @@ import ScreenSpinner from '@vkontakte/vkui/dist/components/ScreenSpinner/ScreenS
 import '@vkontakte/vkui/dist/vkui.css';
 
 import Home from './panels/Home';
-import Mur from './panels/Mur';
-import Test from './panels/Test';
+import Mur from './panels/mur';
+import Test from './panels/test';
 
 const App = () => {
 	const [activePanel, setActivePanel] = useState('home');
