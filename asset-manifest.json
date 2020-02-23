@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VKAPPS/static/css/main.1c8f2e5e.chunk.css",
-    "main.js": "/VKAPPS/static/js/main.11052407.chunk.js",
-    "main.js.map": "/VKAPPS/static/js/main.11052407.chunk.js.map",
+    "main.js": "/VKAPPS/static/js/main.d30e6df6.chunk.js",
+    "main.js.map": "/VKAPPS/static/js/main.d30e6df6.chunk.js.map",
     "runtime-main.js": "/VKAPPS/static/js/runtime-main.b09add5f.js",
     "runtime-main.js.map": "/VKAPPS/static/js/runtime-main.b09add5f.js.map",
     "static/css/2.ae2f4c93.chunk.css": "/VKAPPS/static/css/2.ae2f4c93.chunk.css",
     "static/js/2.540f8c11.chunk.js": "/VKAPPS/static/js/2.540f8c11.chunk.js",
     "static/js/2.540f8c11.chunk.js.map": "/VKAPPS/static/js/2.540f8c11.chunk.js.map",
     "index.html": "/VKAPPS/index.html",
-    "precache-manifest.ae04b2ad16e3d05f29669bdfadbbf665.js": "/VKAPPS/precache-manifest.ae04b2ad16e3d05f29669bdfadbbf665.js",
+    "precache-manifest.5d827f2f653fafc040ae75e93ab5f6b1.js": "/VKAPPS/precache-manifest.5d827f2f653fafc040ae75e93ab5f6b1.js",
     "service-worker.js": "/VKAPPS/service-worker.js",
     "static/css/2.ae2f4c93.chunk.css.map": "/VKAPPS/static/css/2.ae2f4c93.chunk.css.map",
     "static/css/main.1c8f2e5e.chunk.css.map": "/VKAPPS/static/css/main.1c8f2e5e.chunk.css.map"
