@@ -40,7 +40,7 @@ const osName = platform();
 
 const Test = props => (
     <View activePanel="switch">
-    <Panel id="switch">
+    <Panel id={props.id}>
       <PanelHeader>
         Switch
       </PanelHeader>
