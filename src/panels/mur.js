@@ -21,7 +21,7 @@ const Mur = props => (
 		>
 			Mur
 		</PanelHeader>
-		<img className="Mur" src={Mur} alt="Mur The Cat"/>
+		<img className="Mur" src={mur} alt="Mur The Cat"/>
 	</Panel>
 );
 
