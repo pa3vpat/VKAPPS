@@ -37,7 +37,7 @@ const App = () => {
 		<View activePanel={activePanel} popout={popout}>
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
 			<Mur id='mur' go={go} />
-			<Test id='Test' go={go} />
+			<Test id='test' go={go} />
 		</View>
 	);
 }
