@@ -39,11 +39,14 @@ import './mur.css';
 const osName = platform();
 
 const Test = props => (
-    <View activePanel="switch">
     <Panel id={props.id}>
-      <PanelHeader>
-        Switch
-      </PanelHeader>
+    <PanelHeader
+			left={<PanelHeaderButton onClick={props.go} data-to="home">
+				{osName === IOS ? <Icon28ChevronBack/> : <Icon24Back/>}
+			</PanelHeaderButton>}
+		>
+			Swith
+		</PanelHeader>
       <Group>
         <Cell asideContent={<Switch />}>
           Комментарии к записям
@@ -56,7 +59,6 @@ const Test = props => (
         </Cell>
       </Group>
     </Panel>
-  </View>
 );
 
 Test.propTypes = {
