@@ -1,1 +1,0 @@
-{"version":3,"sources":["Mur.css"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF","file":"main.ef6c4a68.chunk.css","sourcesContent":[".Mur {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n"]}
