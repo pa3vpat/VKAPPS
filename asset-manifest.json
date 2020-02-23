@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/VKAPPS/static/css/main.981f7211.chunk.css",
-    "main.js": "/VKAPPS/static/js/main.cf570bcb.chunk.js",
-    "main.js.map": "/VKAPPS/static/js/main.cf570bcb.chunk.js.map",
+    "main.css": "/VKAPPS/static/css/main.ef6c4a68.chunk.css",
+    "main.js": "/VKAPPS/static/js/main.cff957f1.chunk.js",
+    "main.js.map": "/VKAPPS/static/js/main.cff957f1.chunk.js.map",
     "runtime-main.js": "/VKAPPS/static/js/runtime-main.b09add5f.js",
     "runtime-main.js.map": "/VKAPPS/static/js/runtime-main.b09add5f.js.map",
     "static/css/2.ae2f4c93.chunk.css": "/VKAPPS/static/css/2.ae2f4c93.chunk.css",
-    "static/js/2.af154da4.chunk.js": "/VKAPPS/static/js/2.af154da4.chunk.js",
-    "static/js/2.af154da4.chunk.js.map": "/VKAPPS/static/js/2.af154da4.chunk.js.map",
+    "static/js/2.d8ee066d.chunk.js": "/VKAPPS/static/js/2.d8ee066d.chunk.js",
+    "static/js/2.d8ee066d.chunk.js.map": "/VKAPPS/static/js/2.d8ee066d.chunk.js.map",
     "index.html": "/VKAPPS/index.html",
-    "precache-manifest.3213347433ba6ce738a137d50a38d149.js": "/VKAPPS/precache-manifest.3213347433ba6ce738a137d50a38d149.js",
+    "precache-manifest.ab110990aa223ae28678ceaba87563bf.js": "/VKAPPS/precache-manifest.ab110990aa223ae28678ceaba87563bf.js",
     "service-worker.js": "/VKAPPS/service-worker.js",
     "static/css/2.ae2f4c93.chunk.css.map": "/VKAPPS/static/css/2.ae2f4c93.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/VKAPPS/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/VKAPPS/static/media/persik.4e1ec840.png"
+    "static/css/main.ef6c4a68.chunk.css.map": "/VKAPPS/static/css/main.ef6c4a68.chunk.css.map"
   }
 }
