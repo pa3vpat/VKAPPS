@@ -1,13 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { platform, IOS } from '@vkontakte/vkui';
-import Panel from '@vkontakte/vkui/dist/components/Panel/Panel';
-import PanelHeader from '@vkontakte/vkui/dist/components/PanelHeader/PanelHeader';
-import PanelHeaderSimple from '@vkontakte/vkui/dist/components/PanelHeader/PanelHeaderSimple';
-import PanelHeaderButton from '@vkontakte/vkui/dist/components/PanelHeaderButton/PanelHeaderButton';
+
 import Icon28ChevronBack from '@vkontakte/icons/dist/28/chevron_back';
 import Icon24Back from '@vkontakte/icons/dist/24/back';
-
+import { ConfigProvider, Panel, Div , Button , PanelHeader , Footer, View , ScreenSpinner , ModalPage , ModalCard , ModalRoot , ModalPageHeader , HeaderButton
+	, List , Cell , CellButton , InfoRow , Progress , Gallery , Counter , Placeholder , Snackbar , Avatar , Group , Separator , Alert
+	, Tooltip , Tabs , TabsItem, platform, IOS, ANDROID  } from '@vkontakte/vkui';
 
 import './Mur.css';
 
