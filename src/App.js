@@ -6,6 +6,7 @@ import '@vkontakte/vkui/dist/vkui.css';
 
 import Home from './panels/Home';
 import Mur from './panels/Mur';
+import Test from './panels/Test';
 
 const App = () => {
 	const [activePanel, setActivePanel] = useState('home');
@@ -36,6 +37,7 @@ const App = () => {
 		<View activePanel={activePanel} popout={popout}>
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
 			<Mur id='mur' go={go} />
+			<Test id='Test' go={go} />
 		</View>
 	);
 }
