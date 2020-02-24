@@ -49,13 +49,13 @@ const Test = props => (
 		</PanelHeader>
       <Group>
         <Cell asideContent={<Switch />}>
-          Комментарии к записям
+          xDDD
         </Cell>
         <Cell asideContent={<Switch defaultChecked />}>
-          Ссылки
+        саня пидор
         </Cell>
         <Cell asideContent={<Switch disabled />}>
-          Фотоальбомы
+          NONE
         </Cell>
       </Group>
     </Panel>
