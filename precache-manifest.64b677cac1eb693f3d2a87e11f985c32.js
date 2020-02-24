@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c64d30fa3fbf6f7e99685326e96cfad9",
+    "revision": "a0700ba8ee49fcd007f823fcdb4f7ea9",
     "url": "/VKAPPS/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VKAPPS/static/css/2.ae2f4c93.chunk.css"
   },
   {
-    "revision": "3f5c6f9673d5bb7aa268",
+    "revision": "d863cfc33c287d98f5f2",
     "url": "/VKAPPS/static/css/main.1c8f2e5e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VKAPPS/static/js/2.d966f7c2.chunk.js"
   },
   {
-    "revision": "3f5c6f9673d5bb7aa268",
-    "url": "/VKAPPS/static/js/main.1f92644a.chunk.js"
+    "revision": "d863cfc33c287d98f5f2",
+    "url": "/VKAPPS/static/js/main.052a8e98.chunk.js"
   },
   {
     "revision": "9c2430b0a3c5c77b95e9",
