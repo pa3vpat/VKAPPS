@@ -3,6 +3,7 @@ import connect from '@vkontakte/vk-connect';
 import View from '@vkontakte/vkui/dist/components/View/View';
 import ScreenSpinner from '@vkontakte/vkui/dist/components/ScreenSpinner/ScreenSpinner';
 import '@vkontakte/vkui/dist/vkui.css';
+import {Footer} from '@vkontakte/vkui';
 
 import Home from './panels/Home';
 import Mur from './panels/mur';
@@ -17,7 +18,7 @@ const App = () => {
 		connect.subscribe(({ detail: { type, data }}) => {
 			if (type === 'VKWebAppUpdateConfig') {
 				const schemeAttribute = document.createAttribute('scheme');
-				schemeAttribute.value = data.scheme ? data.scheme : 'client_dark';
+				schemeAttribute.value = `space_gray`;
 				document.body.attributes.setNamedItem(schemeAttribute);
 			}
 		});
@@ -38,6 +39,7 @@ const App = () => {
 			<Home id='home' fetchedUser={fetchedUser} go={go} />
 			<Mur id='mur' go={go} />
 			<Test id='test' go={go} />
+			
 		</View>
 	);
 }

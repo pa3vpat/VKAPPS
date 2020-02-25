@@ -6,7 +6,7 @@ import Icon24Back from '@vkontakte/icons/dist/24/back';
 import { ConfigProvider, Panel, Div , Button , PanelHeader, Footer, View , ScreenSpinner , ModalPage , ModalCard , ModalRoot , ModalPageHeader , HeaderButton
 	, List , Cell , CellButton , InfoRow , Progress , Gallery , Counter , Placeholder , Snackbar , Avatar , Group , Separator , Alert
 	,PanelHeaderButton,PanelHeaderBack,Switch, Tooltip , Tabs , TabsItem, platform, IOS, ANDROID  } from '@vkontakte/vkui';
-    
+
     import Icon16Done from '@vkontakte/icons/dist/16/done';
     import Icon16Cancel from '@vkontakte/icons/dist/16/cancel';
     import Icon16Search from '@vkontakte/icons/dist/16/search';
@@ -37,8 +37,9 @@ import { ConfigProvider, Panel, Div , Button , PanelHeader, Footer, View , Scree
 import './mur.css';
 
 const osName = platform();
-
+let versions = `0.0.2`;
 const Test = props => (
+  
     <Panel id={props.id}>
     <PanelHeader
 			left={<PanelHeaderButton onClick={props.go} data-to="home">
@@ -58,6 +59,8 @@ const Test = props => (
           NONE
         </Cell>
       </Group>
+      
+      <Footer >{versions}</Footer>
     </Panel>
 );
 
